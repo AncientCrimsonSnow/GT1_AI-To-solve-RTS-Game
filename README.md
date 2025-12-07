@@ -1,4 +1,4 @@
-# GT1_AI-To-solve-RTS-Game
+# GT1_AI-to-solve-RTS-Game
 This repository contains the practical part of the Game Technologies 1 (GT1) course M.Sc..
 
 ## Project Overview
